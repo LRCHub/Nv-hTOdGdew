@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "#CDが売れないこんな世の中じゃ",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-10T07:18:30.429156Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "#CDが売れないこんな世の中じゃ",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_CDが売れないこんな世の中じゃ_ゴールデンボンバー.txt"
+    }
+  ]
+}
